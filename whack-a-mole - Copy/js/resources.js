@@ -7,7 +7,7 @@ game.resources = [
 	 {name: "dirt", type:"image", src: "data/img/tiles/dirt.png"},
 	 {name: "buckets", type:"image", src: "data/img/tiles/buckets.png"},
 	 // main player spritewalking
-	 {name: "gripe_run_right", type:"image", src: "data/img/sprite/gripe_run_right.png"},
+	 {name: "soldier_altcolor", type:"image", src: "data/img/sprite/soldier_altcolor.png"},
 
     /* Texture Atlases
      * @example
